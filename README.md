@@ -17,9 +17,9 @@
 
 - ⚡ Fun fact **I love eating**
 
-![Alt-Text](https://media.giphy.com/media/28xF3QFVdocYoHan2N/giphy.gif)
-![Alt-Text](https://media.giphy.com/media/BZSZKPCtD4Yx7XaCVg/giphy.gif)
-![Alt-Text](https://media.giphy.com/media/GrZhxwhG0OnuA4Oihf/giphy.gif)
+<!-- ![Alt-Text](https://media.giphy.com/media/28xF3QFVdocYoHan2N/giphy.gif) -->
+<!-- ![Alt-Text](https://media.giphy.com/media/BZSZKPCtD4Yx7XaCVg/giphy.gif) -->
+<!-- ![Alt-Text](https://media.giphy.com/media/GrZhxwhG0OnuA4Oihf/giphy.gif) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
