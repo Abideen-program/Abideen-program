@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/olafimihanabid" target="blank"><img src="https://img.shields.io/twitter/follow/olafimihanabid?logo=twitter&style=for-the-badge" alt="olafimihanabid" /></a> </p>
 
-- 🔭 I’m currently working on [e-commerce site](https://github.com/Abideen-program)
+- 🔭 I’m currently working on [skilling up](https://github.com/Abideen-program)
 
 - 🌱 I’m currently learning **React, MongoDB, Node.js**
 
