@@ -36,5 +36,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abideen-program&show_icons=true&locale=en&layout=compact" alt="abideen-program" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abideen-program&show_icons=true&locale=en" alt="abideen-program" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abideen-program&" alt="abideen-program" /></p>
