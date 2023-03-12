@@ -2,21 +2,21 @@
 <h1 align="center">Hi 👋, I'm Abideen, Olafimihan</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abideen-program&label=Profile%20views&color=0e75b6&style=flat" alt="abideen-program" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=abideen-program&label=Profile%20views&color=0e75b6&style=flat" alt="abideen-program" /> </p>
 
-<p align="left"> <a href="https://twitter.com/olafimihanabid" target="blank"><img src="https://img.shields.io/twitter/follow/olafimihanabid?logo=twitter&style=for-the-badge" alt="olafimihanabid" /></a> </p>
+<p align="center"> <a href="https://twitter.com/olafimihanabid" target="blank"><img src="https://img.shields.io/twitter/follow/olafimihanabid?logo=twitter&style=for-the-badge" alt="olafimihanabid" /></a> </p>
 
-- 🔭 I’m currently working on [skilling up](https://github.com/Abideen-program)
+ 🔭 I’m currently working on [skilling up](https://github.com/Abideen-program)
 
-- 🌱 I’m currently learning **React, MongoDB, Node.js**
+ 🌱 I’m currently learning **React, MongoDB, Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abideen-program?tab=repositories](https://github.com/Abideen-program?tab=repositories)
+ 👨‍💻 All of my projects are available at [https://github.com/Abideen-program?tab=repositories](https://github.com/Abideen-program?tab=repositories)
 
-- 💬 Ask me about **react, HTML, CSS, JavaScript**
+ 💬 Ask me about **react, HTML, CSS, JavaScript**
 
-- 📫 How to reach me **olafimihana@gmail.com**
+ 📫 How to reach me **olafimihana@gmail.com**
 
-- ⚡ Fun fact **I love eating**
+ ⚡ Fun fact **I love eating**
 
 <!-- ![Alt-Text](https://media.giphy.com/media/28xF3QFVdocYoHan2N/giphy.gif) -->
 <!-- ![Alt-Text](https://media.giphy.com/media/BZSZKPCtD4Yx7XaCVg/giphy.gif) -->
