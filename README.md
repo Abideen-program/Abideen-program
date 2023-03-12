@@ -1,3 +1,4 @@
+<div align='center'>
 <h1 align="center">Hi 👋, I'm Abideen, Olafimihan</h1>
 <h3 align="center">A passionate Software Engineer from Nigeria</h3>
 
@@ -36,3 +37,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abideen-program&show_icons=true&locale=en&layout=compact" alt="abideen-program" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abideen-program&show_icons=true&locale=en" alt="abideen-program" /></p>
+</div>
