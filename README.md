@@ -22,8 +22,8 @@
 <!-- ![Alt-Text](https://media.giphy.com/media/BZSZKPCtD4Yx7XaCVg/giphy.gif) -->
 <!-- ![Alt-Text](https://media.giphy.com/media/GrZhxwhG0OnuA4Oihf/giphy.gif) -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://codepen.io/https://codepen.io/abideen-program" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/abideen-program" height="30" width="40" /></a>
 <a href="https://dev.to/https://olafimihan-abideen.netlify.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://olafimihan-abideen.netlify.app/" height="30" width="40" /></a>
 <a href="https://twitter.com/olafimihanabid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olafimihanabid" height="30" width="40" /></a>
